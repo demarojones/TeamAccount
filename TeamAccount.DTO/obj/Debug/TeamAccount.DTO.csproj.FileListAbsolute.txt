@@ -2,3 +2,7 @@ c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAc
 c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.DTO\bin\Debug\TeamAccount.DTO.pdb
 c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.DTO\obj\Debug\TeamAccount.DTO.dll
 c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.DTO\obj\Debug\TeamAccount.DTO.pdb
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.DTO\bin\Debug\TeamAccount.DTO.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.DTO\bin\Debug\TeamAccount.DTO.pdb
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.DTO\obj\Debug\TeamAccount.DTO.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.DTO\obj\Debug\TeamAccount.DTO.pdb

@@ -32,3 +32,35 @@ C:\Users\Demaro\Documents\Visual Studio 2013\Projects\TeamAccountSolution\TeamAc
 C:\Users\Demaro\Documents\Visual Studio 2013\Projects\TeamAccountSolution\TeamAccount.API\obj\Debug\TeamAccount.API.csprojResolveAssemblyReference.cache
 C:\Users\Demaro\Documents\Visual Studio 2013\Projects\TeamAccountSolution\TeamAccount.API\obj\Debug\TeamAccount.API.dll
 C:\Users\Demaro\Documents\Visual Studio 2013\Projects\TeamAccountSolution\TeamAccount.API\obj\Debug\TeamAccount.API.pdb
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.API.dll.config
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.API.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.API.pdb
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Antlr3.Runtime.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Newtonsoft.Json.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Helpers.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Http.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Mvc.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Optimization.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Razor.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\WebGrease.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Newtonsoft.Json.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Helpers.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Http.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Mvc.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Optimization.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Razor.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Antlr3.Runtime.pdb
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\obj\Debug\TeamAccount.API.csprojResolveAssemblyReference.cache
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\obj\Debug\TeamAccount.API.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\obj\Debug\TeamAccount.API.pdb
