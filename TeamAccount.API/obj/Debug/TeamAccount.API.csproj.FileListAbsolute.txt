@@ -36,6 +36,8 @@ C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.API.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.API.pdb
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Antlr3.Runtime.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\EntityFramework.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\EntityFramework.SqlServer.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Newtonsoft.Json.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Net.Http.Formatting.dll
@@ -48,7 +50,11 @@ C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.Deployment.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.DAL.dll
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\WebGrease.dll
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\TeamAccount.DAL.pdb
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\EntityFramework.xml
+C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\EntityFramework.SqlServer.xml
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\Newtonsoft.Json.xml
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Net.Http.Formatting.xml
 C:\Users\Demaro\Development\Projects\TeamAccount\TeamAccount.API\bin\System.Web.Helpers.xml

@@ -1,5 +1,0 @@
-c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.Repository\bin\Debug\TeamAccount.Repository.dll
-c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.Repository\bin\Debug\TeamAccount.Repository.pdb
-c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.Repository\obj\Debug\TeamAccount.Repository.csprojResolveAssemblyReference.cache
-c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.Repository\obj\Debug\TeamAccount.Repository.dll
-c:\users\demaro\documents\visual studio 2013\Projects\TeamAccountSolution\TeamAccount.Repository\obj\Debug\TeamAccount.Repository.pdb
