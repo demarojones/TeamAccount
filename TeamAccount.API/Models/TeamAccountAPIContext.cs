@@ -26,7 +26,7 @@ namespace TeamAccount.API.Models
         public DbSet<TransactionType> TransactionTypes { get; set; }
         public DbSet<TransactionStatus> TransactionStatus { get; set; }
         public DbSet<TransactionItem> Transactions { get; set; }
-        public DbSet<User> Users { get; set; }
+        public DbSet<Player> Users { get; set; }
         public DbSet<UserLogin> Logins { get; set; }
     
     }

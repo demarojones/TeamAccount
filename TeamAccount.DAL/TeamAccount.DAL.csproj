@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FE5EE08B-AC1D-41AC-BED0-DD71657DB23C}</ProjectGuid>
+    <ProjectGuid>{935F5418-079E-4D9F-A2B2-3B22A743636B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TeamAccount.DAL</RootNamespace>
@@ -30,10 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework">
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
-    <Reference Include="EntityFramework.SqlServer">
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
@@ -50,30 +52,57 @@
   <ItemGroup>
     <Compile Include="DataAccessUnit.cs" />
     <Compile Include="Entities\Account.cs" />
-    <Compile Include="Entities\AccountTransaction.cs" />
+    <Compile Include="Entities\Player.cs" />
     <Compile Include="Entities\Team.cs" />
     <Compile Include="Entities\Transaction.cs" />
-    <Compile Include="Entities\TransactionItem.cs" />
     <Compile Include="Entities\TransactionStatus.cs" />
     <Compile Include="Entities\TransactionType.cs" />
-    <Compile Include="Entities\User.cs" />
-    <Compile Include="Entities\UserLogin.cs" />
     <Compile Include="Helpers\ListExtensions.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AccountRepository.cs" />
     <Compile Include="Repositories\GenericRepository.cs" />
     <Compile Include="Repositories\IRepository.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\PlayerRepository.cs" />
+    <Compile Include="Repositories\TeamRepository.cs" />
+    <Compile Include="Repositories\TransactionRepository.cs" />
     <Compile Include="TeamAccountContext.cs" />
     <Compile Include="TeamAccountInitializer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TeamAccount.DTO\TeamAccount.DTO.csproj">
-      <Project>{37dff22a-80a8-4556-8c34-7b1d58bdc6da}</Project>
-      <Name>TeamAccount.DTO</Name>
-    </ProjectReference>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\TeamAccount.DAL.dll.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\TeamAccount.DAL.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\TeamAccount.Repository.csprojResolveAssemblyReference.cache" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\TeamAccount.DAL.dll" />
+    <Content Include="bin\Debug\TeamAccount.DAL.pdb" />
+    <Content Include="bin\Debug\TeamAccount.DTO.dll" />
+    <Content Include="bin\Debug\TeamAccount.DTO.pdb" />
+    <Content Include="bin\Debug\TeamAccount.Repository.dll" />
+    <Content Include="bin\Debug\TeamAccount.Repository.pdb" />
+    <Content Include="obj\Debug\TeamAccount.DAL.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\TeamAccount.DAL.dll" />
+    <Content Include="obj\Debug\TeamAccount.DAL.pdb" />
+    <Content Include="obj\Debug\TeamAccount.Repository.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\TeamAccount.Repository.dll" />
+    <Content Include="obj\Debug\TeamAccount.Repository.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
     <Folder Include="Factories\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

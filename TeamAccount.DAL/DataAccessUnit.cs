@@ -13,7 +13,7 @@ namespace TeamAccount.DAL
     {
         private TeamAccountContext _context = new TeamAccountContext();
         private IRepository<Account> _accounts = null;
-        private IRepository<AccountTransaction> _transactions = null;
+        private IRepository<Transaction> _transactions = null;
         
         public IRepository<Account> Accounts
         {
@@ -27,13 +27,13 @@ namespace TeamAccount.DAL
             }
         }
 
-        public IRepository<AccountTransaction> Transactions
+        public IRepository<Transaction> Transactions
         {
             get
             {
                 if (this._transactions == null)
                 {
-                    this._transactions = new GenericRepository<AccountTransaction>(this._context);
+                    this._transactions = new GenericRepository<Transaction>(this._context);
                 }
                 return this._transactions;
             }

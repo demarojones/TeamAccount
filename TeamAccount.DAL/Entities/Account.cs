@@ -1,21 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace TeamAccount.DAL.Entities
 {
-    public class Account
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
+    using System.Data.Entity.Spatial;
+
+    [Table("Account")]
+    public partial class Account
     {
+        public Account()
+        {
+            Transactions = new HashSet<Transaction>();
+        }
+
         public int Id { get; set; }
+
+        [StringLength(50)]
         public string AccountName { get; set; }
-        public int TeamId { get; set; }
+
+        public int PlayerId { get; set; }
+
         public decimal Balance { get; set; }
+
         public DateTime AccountCreated { get; set; }
 
-        //Navigation
-        public ICollection<Transaction> Transactions { get; set; }
-        public virtual Team Team { get; set; }
+        public virtual Player Player { get; set; }
+
+        public virtual ICollection<Transaction> Transactions { get; set; }
     }
 }
